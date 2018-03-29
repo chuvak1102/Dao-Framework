@@ -1,5 +1,5 @@
 {
-    "name": "chu/Dao-Framework",
+    "name": "choo/dao-framework",
     "description": "The Dao. PHP based Framework",
     "require": {
         "php": "^7.0"
