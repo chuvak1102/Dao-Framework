@@ -2,6 +2,6 @@
     "name": "choo/dao-framework",
     "description": "The Dao. PHP based Framework",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0.0"
     }
 }
