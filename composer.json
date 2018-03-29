@@ -1,5 +1,7 @@
 {
+    "name": "ds/Dao-Framework",
+    "description": "The Dao. PHP based Framework",
     "require": {
-        "mpdf/mpdf": "^7.0"
+        "php": "^7.0"
     }
 }
