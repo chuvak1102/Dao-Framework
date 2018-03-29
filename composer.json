@@ -1,6 +1,7 @@
 {
     "name": "choo/dao-framework",
     "version": "1.0.0",
+    "license": "Apache-2.0",
     "description": "The Dao. PHP based Framework",
     "require": {
         "php": "^7.0.0"
